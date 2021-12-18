@@ -1,1 +1,2 @@
-# Mario-game
+# Super Mario Game
+
